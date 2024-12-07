@@ -17,3 +17,6 @@
 
 ## 6. TestNG Project: Selenium Automation  
 [Automation of daily finance tasks](https://github.com/Syeda-Somiya-Tasnim/DailyFinance_Selenium_TestNG_Automation_Project-main.git) using Selenium and TestNG for efficient testing workflows.  
+
+## 7. Java Problem Solving Assignment  
+[Solutions to Java programming problems](https://github.com/Syeda-Somiya-Tasnim/JavaProblemSolve.git) showcasing algorithmic and logical problem-solving skills.
